@@ -1,4 +1,4 @@
-what did i learn from this :
+what did i learn from this project:
 
 1. i understand more about useEffect and it's dependency array.
 2. learned the new hooks memoize and useMemo hook.
